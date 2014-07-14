@@ -1,0 +1,45 @@
+﻿<section id="login-view" class="mainbar" data-ng-controller="login as vm">
+    <section class="matter">
+ 
+        <div class="" id="loginModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>تسجيل الدخول</h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="well">  
+
+                            <fieldset>
+                                <div class="row form-group ">
+                                    <div class="input-group-lg">
+                                        <input class="form-control" ng-model='vm.username' data-val="true" data-val-required="مطلوب" id="Email" name="Email" placeholder="البريد الإلكتروني" required="required" title="مطلوب" type="text" />
+                                    </div>
+                                </div>
+
+                                <div class="row form-group ">
+                                    <div class="input-group-lg">
+                                        <input class="form-control" ng-model='vm.password' data-val="true" data-val-length="The field كلمة المرور must be a string with a maximum length of 30." data-val-length-max="30" data-val-required="مطلوب" id="Password" name="Password" placeholder="كلمة المرور" required="required" title="مطلوب" type="text" />
+                                    </div>
+                                </div>
+							
+							
+                                <div class="form-group">
+                                    <div class="controls">
+                                        <button class="btn btn-success" data-ng-click='vm.login()'>تسجيل الدخول</button>
+                                    </div>
+                                </div>
+
+                                <p>اذا كنت مستخدم جديد ، من فضلك <a href="/Account/register/">سجل</a> مجاناً</p>
+                                <p> هل نسيت كلمة السر؟ <a href="/Account/ForgotPassword/">إنقر هنا</a></p>
+                                <p>هل تريد تغير كلمة السر؟ <a href="/Account/ChangePassword/">إنقر هنا</a></p>
+
+                            </fieldset>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+ 
+    </section>
+</section>

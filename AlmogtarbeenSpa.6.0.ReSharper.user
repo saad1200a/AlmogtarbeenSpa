@@ -1,0 +1,118 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:common/f:spinner.js" caret="696" fromTop="25" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:registration/f:login.html" caret="0" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:dashboard/f:dashboard.html" caret="3362" fromTop="38" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:new.html" caret="5533" fromTop="26" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:services/f:directives.js" caret="6464" fromTop="21" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:topnav.html" caret="2633" fromTop="22" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:shell.html" caret="103" fromTop="2" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:common/f:logger.js" caret="451" fromTop="17" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:Scripts/f:angular-animate.min.js" caret="4068" fromTop="12" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:Scripts/f:angular-animate.js" caret="33604" fromTop="135" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:admin/f:admin.html" caret="0" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:admin/f:admin.js" caret="64" fromTop="2" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:dashboard/f:dashboard.js" caret="0" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:services/f:datacontext.js" caret="590" fromTop="18" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:index.html" caret="3382" fromTop="21" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.html" caret="364" fromTop="8" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.exceptionHandler.js" caret="0" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebarView.js" caret="117" fromTop="3" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:app.js" caret="704" fromTop="19" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:common/f:common.js" caret="0" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.js" caret="0" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:shell.js" caret="996" fromTop="33" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:registration/f:login.js" caret="1851" fromTop="41" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="850" fromTop="27" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:common/f:identity.js" caret="86" fromTop="3" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="729" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="1218" fromTop="0" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="1218" fromTop="15" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="888" fromTop="21" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="888" fromTop="9" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="1210" fromTop="28" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="888" fromTop="2" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="888" fromTop="13" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="888" fromTop="18" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="888" fromTop="12" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.html" caret="364" fromTop="8" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="340" fromTop="11" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="242" fromTop="7" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:sidebar.js" caret="795" fromTop="26" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:admin/f:admin.js" caret="314" fromTop="10" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:admin/f:admin.js" caret="64" fromTop="2" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="2272" fromTop="14" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:shell.js" caret="916" fromTop="29" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:layout/f:shell.js" caret="1129" fromTop="29" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="2272" fromTop="7" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:app.js" caret="704" fromTop="19" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="2272" fromTop="29" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="2890" fromTop="21" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="2890" fromTop="36" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="2890" fromTop="18" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="1512" fromTop="28" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="1812" fromTop="12" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/d:registration/f:login.js" caret="1229" fromTop="22" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="862" fromTop="15" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="141" fromTop="6" />
+      <File id="6A273D11-3C04-4FE2-A230-1E25C93FD661/f:config.route.js" caret="795" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="vm" priority="43" />
+      <Item value="alert" priority="109" />
+      <Item value="function" priority="65" />
+      <Item value="if" priority="54" />
+      <Item value="username" priority="21" />
+      <Item value="password" priority="10" />
+      <Item value="console" priority="197" />
+      <Item value="log" priority="21" />
+      <Item value="else" priority="21" />
+      <Item value="angular" priority="21" />
+      <Item value="user" priority="21" />
+      <Item value="return" priority="87" />
+      <Item value="new" priority="10" />
+      <Item value="true" priority="32" />
+      <Item value="false" priority="63" />
+      <Item value="JSON" priority="65" />
+      <Item value="var" priority="87" />
+      <Item value="null" priority="10" />
+      <Item value="r" priority="21" />
+      <Item value="this" priority="10" />
+      <Item value="$rootscope" priority="9" />
+      <Item value="navigationOrder" priority="10" />
+      <Item value="hasNavigation" priority="10" />
+      <Item value="route" priority="10" />
+      <Item value="$route" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="log" priority="170" />
+      <Item value="isSecured" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="nguid" priority="5" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,4 @@
+C:\Users\saad1200\Documents\Projects\AlmogtarbeenSpa\AlmogtarbeenSpa\bin\AlmogtarbeenSpa.dll
+C:\Users\saad1200\Documents\Projects\AlmogtarbeenSpa\AlmogtarbeenSpa\bin\AlmogtarbeenSpa.pdb
+C:\Users\saad1200\Documents\Projects\AlmogtarbeenSpa\AlmogtarbeenSpa\obj\Debug\AlmogtarbeenSpa.dll
+C:\Users\saad1200\Documents\Projects\AlmogtarbeenSpa\AlmogtarbeenSpa\obj\Debug\AlmogtarbeenSpa.pdb
